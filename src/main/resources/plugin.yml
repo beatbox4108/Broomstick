@@ -1,0 +1,5 @@
+name: Broomstick
+version: '1.0-SNAPSHOT'
+main: xyz.beatbox4108.broomstick.Broomstick
+api-version: '1.20'
+load: STARTUP
