@@ -6,6 +6,8 @@ Broomstick
 
 シンプルな魔法のほうきを追加するプラグインです。
 
+![broomstick-demo](https://github.com/user-attachments/assets/90fcd752-156d-48c2-ba14-88f28bfaf705)
+
 ## Getting Started
 ### 導入方法 (サーバーサイド)
 このリポジトリをクローンし、プラグインをビルドするか、リリースページからjarファイルをダウンロードします。
